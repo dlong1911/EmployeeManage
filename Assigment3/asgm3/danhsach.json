@@ -1,0 +1,12 @@
+{
+    "NV": [
+        "{\"id\": \"S002\", \"name\": \"lam My\", \"salary_base\": 200000, \"working_days\": 21, \"department\": \"SALE\", \"working_performance\": 1.6, \"bonus\": 200000, \"late_comming_days\": 1, \"chucvu\": \"NV\"}",
+        "{\"id\": \"S003\", \"name\": \"long le\", \"salary_base\": 300000, \"working_days\": 22, \"department\": \"SALE\", \"working_performance\": 1.5, \"bonus\": 500000, \"late_comming_days\": 2, \"chucvu\": \"NV\"}"
+    ],
+    "QL": [],
+    "BOPHAN": [
+        "{\"id\": \"TECH\", \"bonus_salary\": \"200000\"}",
+        "{\"id\": \"SALE\", \"bonus_salary\": \"300000\"}",
+        "{\"id\": \"QC\", \"bonus_salary\": \"200000\"}"
+    ]
+}
